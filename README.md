@@ -1,10 +1,10 @@
 # Hi, I'm Christopher Bazaldua 👋
 
-**Senior Software Engineer · Tech Lead · Full-Stack · AI Engineering Aspirant**
+**Senior Software Engineer · Tech Lead · Full-Stack · AI Engineer**
 
 > I write code to abstract real-world problems into systems that actually help people — including my own family.
 
-Based in **Dallas, TX** · Open to senior engineering roles (hybrid & remote)
+Based in **Dallas, TX**
 
 ---
 
